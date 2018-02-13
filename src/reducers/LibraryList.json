@@ -1,0 +1,47 @@
+[
+	{
+		"id": 0,
+		"title": "Webpack",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 1,
+		"title": "React",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 2,
+		"title": "Redux",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 3,
+		"title": "React-Redux",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 4,
+		"title": "ESLint",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 5,
+		"title": "Babel",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 6,
+		"title": "Axios",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 7,
+		"title": "Lodash",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	},
+	{
+		"id": 8,
+		"title": "Redux-Thunk",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam nec arcu vel vestibulum. Sed pulvinar condimentum nisi eget dictum. Aliquam dictum sapien magna, consectetur auctor nulla egestas eu."
+	}
+]
